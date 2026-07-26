@@ -1,0 +1,55 @@
+:root {
+  /* ===== Color Palette ===== */
+  --color-navy-50: #e8eaf0;
+  --color-navy-100: #c5c9d9;
+  --color-navy-200: #9ea5bf;
+  --color-navy-300: #7780a5;
+  --color-navy-400: #5a6491;
+  --color-navy-500: #3d487d;
+  --color-navy-600: #2a3568;
+  --color-navy-700: #1a254f;
+  --color-navy-800: #0f1a3a;
+  --color-navy-900: #0a1628;
+
+  --color-gold-50: #faf3e0;
+  --color-gold-100: #f0dfb3;
+  --color-gold-200: #e5ca83;
+  --color-gold-300: #d9b553;
+  --color-gold-400: #d0a52e;
+  --color-gold-450: #bd9f46;
+  --color-gold-500: #c7960a;
+  --color-gold-600: #b38126;
+  --color-gold-700: #8e641e;
+  --color-gold-800: #6b4a16;
+  --color-gold-900: #4a320e;
+
+  --color-cream: #faf8f5;
+  --color-warm-gray: #f5f4f2;
+  --color-soft-gray: #e8e7e4;
+  --color-mid-gray: #9ca3af;
+  --color-charcoal: #1f2937;
+
+  /* Brand-specific hex values used in components */
+  --brand-navy-dark: #0A0F1D;
+  --brand-navy-mid: #0F1524;
+  --brand-gold: #C5A880;
+  --brand-gold-light: #EAD0A8;
+  --brand-gold-lighter: #C5A880;
+
+  /* ===== Typography ===== */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-arabic: 'Cairo', system-ui, sans-serif;
+  --font-serif: Georgia, 'Times New Roman', serif;
+  --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
+
+  /* ===== Spacing ===== */
+  --max-width-xl: 1600px;
+  --max-width-7xl: 1280px;
+  --max-width-3xl: 768px;
+
+  /* ===== Transitions ===== */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-fast: 0.2s ease;
+  --transition-base: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}

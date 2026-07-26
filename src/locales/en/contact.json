@@ -1,0 +1,111 @@
+{
+  "page": {
+    "title": "Start Your Project",
+    "subtitle": "Tell us about your vision. We'll review your inquiry personally and contact you with the best way to move your project forward."
+  },
+  "hero": {
+    "badge": "Start Your Project",
+    "title": "Contact Us",
+    "subtitle": "Reach us by phone, WhatsApp, email, or visit our office. You can also use the contact form below—it's completely optional. Choose the method that's most convenient for you, and our team will be happy to assist."
+  },
+  "steps": {
+    "projectType": "Project Type",
+    "projectDetails": "Project Details",
+    "services": "Services Needed",
+    "clientInfo": "Client Information",
+    "message": "Tell Us About Your Project",
+    "attachments": "Attachments",
+    "review": "Review Your Inquiry"
+  },
+  "projectTypes": {
+    "residential": "Residential",
+    "commercial": "Commercial",
+    "industrial": "Industrial",
+    "mixedUse": "Mixed Use",
+    "consultation": "Consultation",
+    "renovation": "Renovation",
+    "other": "Other"
+  },
+  "fields": {
+    "location": "Project Location",
+    "currentStage": "Current Stage",
+    "estimatedSize": "Estimated Size (sqm)",
+    "timeline": "Expected Timeline",
+    "fullName": "Full Name",
+    "company": "Company Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "country": "Country",
+    "preferredContact": "Preferred Contact Method",
+    "preferredTime": "Preferred Contact Time",
+    "message": "Tell us about your project",
+    "attachments": "Upload Files"
+  },
+  "placeholders": {
+    "location": "e.g., New Cairo, Egypt",
+    "currentStage": "e.g., Land Acquisition, Design Phase",
+    "estimatedSize": "e.g., 500",
+    "timeline": "e.g., 12-18 months",
+    "message": "Describe your project in detail — your vision, requirements, goals, and any specific questions you may have. The more detail you provide, the better we can prepare for our conversation."
+  },
+  "contactMethods": {
+    "email": "Email",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp"
+  },
+  "contactTimes": {
+    "morning": "Morning (9AM - 12PM)",
+    "afternoon": "Afternoon (12PM - 5PM)",
+    "evening": "Evening (5PM - 8PM)"
+  },
+  "services": {
+    "construction": "Construction Management",
+    "supervision": "Project Supervision",
+    "architecture": "Architecture",
+    "engineering": "Engineering",
+    "consultation": "Consultation",
+    "other": "Other"
+  },
+  "quick": {
+    "eyebrow": "Direct Channels",
+    "heading": "Get in Touch",
+    "call": "Call Us",
+    "callNow": "Tap to call direct",
+    "whatsapp": "WhatsApp",
+    "whatsappHint": "Instant Chat",
+    "openChat": "Start conversation",
+    "email": "Email Us",
+    "sendEmail": "Send official inquiry",
+    "facebook": "Facebook",
+    "facebookHint": "Fortress IRD",
+    "visitPage": "Visit community page",
+    "headquarters": "Headquarters Address",
+    "interactiveMap": "Interactive Location Map"
+  },
+  "form": {
+    "sending": "Sending..."
+  },
+  "review": {
+    "title": "Review Your Inquiry",
+    "projectType": "Project Type",
+    "projectDetails": "Project Details",
+    "services": "Services Needed",
+    "clientInfo": "Client Information",
+    "message": "Your Message",
+    "attachments": "Attachments",
+    "noAttachments": "No files attached"
+  },
+  "success": {
+    "title": "Thank You!",
+    "message": "Your inquiry has been received successfully.",
+    "description": "Every inquiry is personally reviewed by Fortress IRD to ensure you receive guidance tailored to your project's requirements.",
+    "responseTime": "Expected response: Within one business day.",
+    "newInquiry": "Submit Another Inquiry"
+  },
+  "errors": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "phone": "Please enter a valid phone number",
+    "submitFailed": "Failed to submit your inquiry. Please try again."
+  }
+}

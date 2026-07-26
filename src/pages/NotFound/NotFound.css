@@ -1,0 +1,31 @@
+.not-found {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  padding-top: 5rem;
+}
+
+.not-found__container {
+  text-align: center;
+}
+
+.not-found__title {
+  font-size: 6rem;
+  font-weight: 700;
+  color: var(--color-navy-900);
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 640px) {
+  .not-found__title {
+    font-size: 8rem;
+  }
+}
+
+.not-found__subtitle {
+  font-size: 1.25rem;
+  color: var(--color-navy-500);
+  margin-bottom: 2rem;
+}

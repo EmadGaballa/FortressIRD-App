@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "eyebrow": "Full-Service Construction & Real Estate Development",
+    "title1": "Inspired by Vision.",
+    "title2": "Built with Precision.",
+    "title3": "Delivering Excellence.",
+    "subtitle": "Full-service construction & real estate development. From concept to completion, delivered to perfection.",
+    "scroll": "Scroll to explore",
+    "watchVideo": "Watch Our Company Reel"
+  },
+  "intro": {
+    "eyebrow": "About Fortress IRD",
+    "title": "Built on Quality, Trust & Innovation",
+    "body": "Since 2017, Fortress IRD has provided end-to-end construction, development, and finishing services driven by Quality, Trust, and Innovation. With expertise across residential and commercial projects, we have built long-standing partnerships with government institutions, corporate clients, and private investors. Our work is defined by precision and luxury standards, executed using advanced technologies, modern construction methods, and an uncompromising commitment to excellence."
+  },
+  "values": {
+    "eyebrow": "Our Foundation",
+    "title": "Built on Principles That Endure",
+    "integrity": "Integrity",
+    "integrityDesc": "We conduct business with transparency, honesty, and ethical responsibility. Every relationship is built on trust and mutual respect.",
+    "quality": "Uncompromising Quality",
+    "qualityDesc": "We never compromise on quality. Every detail matters, every finish reflects our standards, and every project is built to last.",
+    "innovation": "Innovation & Excellence",
+    "innovationDesc": "We embrace modern methods and technologies to deliver superior results efficiently, staying ahead of industry standards."
+  },
+  "whyUs": {
+    "eyebrow": "Why Choose Fortress IRD",
+    "title": "The Fortress Difference",
+    "personal": "Personal Attention from the Founder",
+    "personalDesc": "Every inquiry receives direct attention from our founder. You're never just another client — your project matters to us personally.",
+    "reliable": "Reliable Execution",
+    "reliableDesc": "We deliver on our promises. On time, on budget, and to the highest standards of quality and safety.",
+    "communication": "Clear Communication",
+    "communicationDesc": "Transparent updates and open dialogue throughout every phase of your project. No surprises, just clarity.",
+    "detail": "Attention to Detail",
+    "detailDesc": "From structural integrity to the finest finish, we obsess over every detail to ensure perfection in delivery.",
+    "quality": "Quality-First Mindset",
+    "qualityDesc": "We use premium materials, skilled craftsmanship, and rigorous quality control in every project we undertake.",
+    "experience": "Proven Track Record",
+    "experienceDesc": "Years of successful projects across residential, commercial, and industrial sectors with a reputation for excellence."
+  },
+  "stats": {
+    "years": "Years of Experience",
+    "projects": "Projects Completed",
+    "clients": "Satisfied Clients",
+    "sectors": "Construction Sectors"
+  },
+  "services": {
+    "eyebrow": "What We Do",
+    "title": "Our Services",
+    "description": "Comprehensive construction and development services delivered with engineering precision and uncompromising quality."
+  },
+  "portfolio": {
+    "eyebrow": "Our Work",
+    "title": "Featured Projects",
+    "description": "From residential villas to large-scale commercial developments — every project is a testament to our commitment to excellence, craftsmanship, and delivery."
+  },
+  "process": {
+    "eyebrow": "How We Work",
+    "title": "Our Construction Process",
+    "step1": "Discovery & Consultation",
+    "step1Desc": "We begin by understanding your vision, requirements, and goals for the project.",
+    "step2": "Design & Planning",
+    "step2Desc": "Our team provides expert guidance on design, feasibility, and planning.",
+    "step3": "Permitting & Approvals",
+    "step3Desc": "Detailed project planning, budgeting, and scheduling to ensure smooth execution.",
+    "step4": "Construction & Execution",
+    "step4Desc": "Precision construction with rigorous quality control and timeline management.",
+    "step5": "Finishing & Handover",
+    "step5Desc": "Final handover with meticulous attention to every detail and client satisfaction."
+  },
+  "industries": {
+    "eyebrow": "Our Expertise",
+    "title": "Industries We Serve",
+    "description": "Specialized expertise across multiple construction sectors, delivering excellence in every project type."
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "What Our Clients Say"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently Asked Questions"
+  },
+  "cta": {
+    "title": "Ready to Start Your Project?",
+    "subtitle": "Tell us about your vision. We'll review your inquiry personally and contact you with the best way to move your project forward.",
+    "button": "Start Your Project",
+    "titleMain": "Let's build something",
+    "titleAccent": "extraordinary together."
+  }
+}

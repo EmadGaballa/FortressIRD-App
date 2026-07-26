@@ -1,0 +1,26 @@
+{
+  "page": {
+    "title": "Our Projects",
+    "subtitle": "A selection of our finest work — each project reflects our commitment to quality, precision, and excellence."
+  },
+  "categories": {
+    "all": "All Projects",
+    "residential": "Residential",
+    "commercial": "Commercial",
+    "industrial": "Industrial",
+    "mixed-use": "Mixed Use",
+    "renovation": "Renovation"
+  },
+  "details": {
+    "overview": "Project Overview",
+    "location": "Location",
+    "category": "Category",
+    "status": "Status",
+    "year": "Year",
+    "client": "Client",
+    "highlights": "Construction Highlights",
+    "gallery": "Project Gallery",
+    "related": "Related Projects",
+    "cta": "Start Your Project"
+  }
+}

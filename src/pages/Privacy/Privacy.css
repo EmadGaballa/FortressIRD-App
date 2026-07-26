@@ -1,0 +1,33 @@
+.privacy {
+  padding-top: 8rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+
+.privacy__container {
+  max-width: var(--max-width-3xl);
+}
+
+.privacy__title {
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--color-navy-900);
+  margin-bottom: 2rem;
+}
+
+.privacy__content {
+  color: var(--color-navy-600);
+  line-height: 1.625;
+}
+
+.privacy__content p {
+  margin-bottom: 1rem;
+}
+
+.privacy__heading {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--color-navy-900);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
